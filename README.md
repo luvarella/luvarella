@@ -1,18 +1,15 @@
 ## Olá, Eu me chamo Luiza! 😊
 ### Seja bem-vindo ao meu Github ❤
-<!--
-**luvarella/luvarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌸 Atualmente estudando Informática para Internet
+- 🌷 Atualmente estudando Wordpress
+- 💌 Como entrar em contato: luvarellagois@gmail.com
+- 💗 Pronomes: ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### English Version:
+- 🌸 I’m currently studying Infoweb
+- 🌷 I’m currently learning Wordpress
+- 💌 How to reach me: luvarellagois@gmail.com
+- 💗 Pronouns: she/her
 
-<!--![Gatinho da introdução](https://pin.it/5DHyOfK)-->
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvarella&theme=dracula&show_icons=true)
