@@ -1,4 +1,4 @@
-## Olá, Eu me chamo Luiza! 😊
+## Olá, eu me chamo Luiza! 😊
 ### Seja bem-vindo ao meu Github ❤
 
 - 🌸 Atualmente estudando Informática para Internet
