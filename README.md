@@ -25,5 +25,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> 
 </div>
-  
+
+<div>
+  <img align="left" src=https://github.com/luvarella/luvarella/blob/main/Mewo%20Omori%20GIF%20-%20Mewo%20Omori%20-%20Descobrir%20e%20Compartilhar%20GIFs%20(1).gif width="250px"/> 
+</div>
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
   
