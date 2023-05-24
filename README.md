@@ -7,10 +7,11 @@
  <img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=dracula&layout=compact" width="450px"/>
  
 <div style="display: flex; flex-direction: row; justify-content:space-between">
-  <h4 align="left">Um poquinho sobre mim</h4>
+  <h4 align="left">Um pouquinho sobre mim</h4>
   <ul>
     <li>🌸 Atualmente cursando Informática para Internet</li>
     <li>🌷 Atualmente estudando Wordpress</li>
+    <li>💌 Como entrar em contato: luvarellagois@gmail.com</li>
     <li>💗 Pronomes: ela/dela</li>
   </ul>
 </div>
