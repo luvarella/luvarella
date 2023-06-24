@@ -11,7 +11,6 @@
   <ul>
     <li>🌸 Atualmente cursando Informática para Internet</li>
     <li>🌷 Estudando Wordpress</li>
-    <li>💌 Como entrar em contato: luvarellagois@gmail.com</li>
     <li>💗 Pronomes: ela/dela</li>
   </ul>
 </div>
