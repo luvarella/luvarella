@@ -30,5 +30,5 @@
   <img align="left" src=https://github.com/luvarella/luvarella/blob/main/Mewo%20Omori%20GIF%20-%20Mewo%20Omori%20-%20Descobrir%20e%20Compartilhar%20GIFs%20(1).gif width="250px"/> 
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luvarella/luvarella/blob/output/github-contribution-grid-snake.svg)
   
