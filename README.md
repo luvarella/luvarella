@@ -9,7 +9,7 @@
 <div style="display: flex; flex-direction: row; justify-content:space-between">
   <h4 align="left">Um pouquinho sobre mim</h4>
   <ul>
-    <li>🌸 Atualmente cursando Informática para Internet</li>
+    <li>🌸 Cursando Informática para Internet</li>
     <li>🌷 Estudando Wordpress</li>
     <li>💗 Pronomes: ela/dela</li>
   </ul>
