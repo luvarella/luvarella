@@ -9,9 +9,9 @@
 <div style="display: flex; flex-direction: row; justify-content:space-between">
   <h4 align="left">Um pouquinho sobre mim</h4>
   <ul>
-    <li>🌸 Cursando Informática para Internet</li>
-    <li>🌷 Estudando Wordpress</li>
-    <li>💗 Pronomes: ela/dela</li>
+    <li>🖥 Cursando Informática para Internet</li>
+    <li>💭 Estudando Wordpress</li>
+    <li>👤 Pronomes: ela/dela</li>
   </ul>
 </div>
 
@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <img align="left" src=https://github.com/luvarella/luvarella/blob/371fffc1063e744d31185e2916e0962631661275/gatinho.gif width="250px"/> 
+  <img align="left" src=https://github.com/luvarella/luvarella/blob/371fffc1063e744d31185e2916e0962631661275/gatinho.gif width="300px"/> 
 </div>
 
 ![Snake animation](https://github.com/luvarella/luvarella/blob/output/github-contribution-grid-snake.svg)
