@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <img align="left" src=https://github.com/luvarella/luvarella/blob/main/Mewo%20Omori%20GIF%20-%20Mewo%20Omori%20-%20Descobrir%20e%20Compartilhar%20GIFs%20(1).gif width="250px"/> 
+  <img align="left" src=https://github.com/luvarella/luvarella/blob/371fffc1063e744d31185e2916e0962631661275/gatinho.gif width="250px"/> 
 </div>
 
 ![Snake animation](https://github.com/luvarella/luvarella/blob/output/github-contribution-grid-snake.svg)
