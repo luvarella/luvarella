@@ -3,8 +3,8 @@
   <h3> Seja bem-vindo ao meu Github ❤</h3>
 </div>
 
- <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=dracula&count_private=true" width="450px"/>
- <img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=dracula&layout=compact" width="450px"/>
+ <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&count_private=true" width="450px"/>
+ <img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=omni&layout=compact" width="450px"/>
  
 <div style="display: flex; flex-direction: row; justify-content:space-between">
   <h4 align="left">Um pouquinho sobre mim</h4>
