@@ -30,5 +30,6 @@
   <img align="left" src=https://github.com/luvarella/luvarella/blob/371fffc1063e744d31185e2916e0962631661275/gatinho.gif width="300px"/> 
 </div>
 
+![Snake animation](https://github.com/luvarella/luvarella/blob/output/github-contribution-grid-snake.svg)
 
   
