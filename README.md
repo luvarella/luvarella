@@ -10,7 +10,6 @@
   <h4 align="left">Um pouquinho sobre mim</h4>
   <ul>
     <li>🖥 Cursando Informática para Internet</li>
-    <li>💭 Estudando Wordpress</li>
     <li>👤 Pronomes: ela/dela</li>
   </ul>
 </div>
