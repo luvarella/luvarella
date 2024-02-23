@@ -1,6 +1,6 @@
 <div align = "center">
   <h1>Hello World!</h1>
-  <h3> Seja bem-vindo ao meu Github, me chamo Luiza :D</h3>
+  <h3> Bem-vindo ao meu Github, me chamo Luiza :D</h3>
 </div>
 
  <!--<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px"/>-->
