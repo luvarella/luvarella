@@ -1,9 +1,9 @@
 <div align = "center">
-  <h1>Olá, eu me chamo Luiza! 😊</h1>
-  <h3> Seja bem-vindo ao meu Github ❤</h3>
+  <h1>Hello World!</h1>
+  <h3> Seja bem-vindo ao meu Github</h3>
 </div>
 
- <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px"/>
+ <!--<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px"/>-->
  <img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=omni&border_color=191622&layout=compact" width="450px"/>
  
 <div style="display: flex; flex-direction: row; justify-content:space-between">
