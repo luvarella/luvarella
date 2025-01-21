@@ -1,6 +1,7 @@
 ## Hello World! Me chamo Luiza :D
 
- <!--<img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px"/>-->
+
+<!-- <img align="right" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px"/> -->
  <div>
   <img align="right" src=https://github.com/luvarella/luvarella/blob/371fffc1063e744d31185e2916e0962631661275/gatinho.gif width="300px"/> 
 </div
@@ -24,12 +25,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40">
 </div>
 
-<div>
-<img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=omni&border_color=191622&layout=compact" width="450px" height="160px"/>
-<img align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px" height= "160px"/>
-</div>
+<!-- <div>
+<img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=omni&border_color=191622&layout=compact" width="400px" height="180px"/>
+</div> -->
 
 
 
