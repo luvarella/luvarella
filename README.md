@@ -7,7 +7,7 @@
 </div>
  
 <div style="display: flex; flex-direction: row; justify-content:space-between">
-  <h4 align="left">Um pouquinho sobre mim</h4>
+  <h3 align="left">Um pouquinho sobre mim</h3>
   <ul>
     <li>🖥 Cursando Informática para Internet</li>
     <li>❤ Amante de UI/UX Design
@@ -16,7 +16,7 @@
 
 
 <div>
- <h4 align="left">Minhas habilidades</h4>
+ <h3 align="left">Minhas habilidades</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>          
@@ -27,8 +27,8 @@
 </div>
 
 <div>
-<img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=omni&border_color=191622&layout=compact" width="450px" height="200px"/>
-<img align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px" height= "200px"/>
+<img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvarella&theme=omni&border_color=191622&layout=compact" width="450px" height="180px"/>
+<img align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=luvarella&show_icons=true&theme=omni&border_color=191622&count_private=true" width="450px" height= "180px"/>
 </div>
 
 
