@@ -10,7 +10,7 @@
 <div style="display: flex; flex-direction: row; justify-content:space-between">
   <h3 align="left">Um pouco sobre mim</h3>
   <ul>
-    <li>🖥 Cursando Informática para Internet</li>
+    <li>🖥 Técnica em Informática para Internet</li>
     <li>❤ Amante de UI/UX Design
     <li>👤 Pronomes: ela/dela</li>
   </ul>
